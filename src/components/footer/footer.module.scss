@@ -1,0 +1,26 @@
+.main {
+  min-height: 100%;
+}
+
+.navs {
+  height: 60px;
+  line-height: 60px;
+}
+
+.nav-pc {
+  max-width: 1280px;
+  margin: 0 auto;
+  height: 40px;
+  line-height: 40px;
+  font-size: 12px;
+  text-align: center;
+  color: #888;
+}
+
+.nav-mobile {
+  display: flex;
+  justify-content: center;
+  height: 40px;
+  line-height: 40px;
+  color: #888;
+}

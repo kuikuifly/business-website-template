@@ -1,0 +1,31 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@ant-design/nextjs-registry": "^1.0.0",
+    "@react-spring/web": "^9.7.3",
+    "antd-mobile": "^5.34.0",
+    "antd-mobile-icons": "^0.3.0",
+    "axios": "^1.6.7",
+    "next": "14.1.0",
+    "radix-ui": "^1.0.1",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-spring": "^9.7.3",
+    "sass": "^1.71.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0",
+    "typescript": "^5"
+  }
+}
